@@ -12,6 +12,7 @@ The result of running the height grabber was the file ```data_file/GTAV_HeightMa
 All heights are within a bounded box with a lower left point and upper right point: 
 * LOWER LEFT: (-4100,-4300)
 * UPPER RIGHT: (4300, 7825)
+
 This covers the land of San Andreas and must of the surrounding waters.
 Beaware that some heights might be 0, but my experience is that this is only a few of them.
 
