@@ -21,3 +21,7 @@ Just invoke GetHeightAtXY(...) from MapDataLibrary as such:
 float height = GetHeightAtXY(goto.X, goto.Y);
 NAPI.Entity.SetEntityPosition(ply, new Vector3(goto.X, goto.Y, height));
 ```
+
+<h2>License</h2>
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
