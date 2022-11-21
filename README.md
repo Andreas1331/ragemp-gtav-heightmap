@@ -1,5 +1,6 @@
 # ragemp-gtav-heightmap
 Originally written in 2018, so might be better solutions out there.
+
 The repository contains a helpful file with Z-heights for any given X,Y coordinate in GTA:V. I originally wrote a client-side script in JavaScript back in 2018 that would teleport the player in a grid pattern and grab the heights around him using
 ```
 entity.getHeight(X, Y, Z, atTop, inWorldCoords);
