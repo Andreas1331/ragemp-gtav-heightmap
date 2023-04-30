@@ -44,7 +44,7 @@ namespace Example
 
         private static bool ContainPosition(float x, float y)
         {
-            return mapX.Item1 <= x && x < 4100 && mapY.Item1 <= y && y <= mapY.Item2;
+            return mapX.Item1 <= x && x < mapX.Item2 && mapY.Item1 <= y && y <= mapY.Item2;
         }
     }
 }
